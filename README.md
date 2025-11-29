@@ -59,7 +59,6 @@ You can view our full UI/UX prototype here:
 | **Soe Sett Lynn** | Member | Designed the WolfEye+ interface on Figma |
 
 ---
-
 ## Achievement
 
 This project earned the **First Runner-Up Prize** for its innovative approach to workplace safety and security at the **Venture Base Hackathon 2025**.
