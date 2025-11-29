@@ -62,4 +62,4 @@ You can view our full UI/UX prototype here:
 
 ## Achievement
 
-This project earned the **First Runner-Up Prize** for its innovative approach to workplace safety and security at the Venture Base Hackathon 2025.
+This project earned the **First Runner-Up Prize** for its innovative approach to workplace safety and security at the **Venture Base Hackathon 2025**.
