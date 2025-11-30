@@ -22,7 +22,9 @@ WolfEye+ ensures that only authorized individuals are identified and that all pe
 - **Attendance and PPE violations Dashboard** — Monitors attendance status and PPE adherence with real-time detection metrics.
 
 ---
+## Project Demostration Video
 
+---
 ## Tech Stack
 
 ### **Frontend**
