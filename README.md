@@ -35,7 +35,8 @@ WolfEye+ ensures that only authorized individuals are identified and that all pe
 ### **Backend**
 - Python (FastAPI) 
 - Deep face for face detection
-- YOLO for PPE detection 
+- YOLO for PPE detection
+- Redis for caching at scale in real-time
 - MongoDB database for storing user and detection data
 
 ### **Development Tools**
