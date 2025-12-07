@@ -5,6 +5,8 @@
 
 ## Overview
 
+### Demo Availiable on Youtube! [Check this out👆🏻](https://youtu.be/ry2Rg3mzuMQ)
+
 **WolfEye+** is an intelligent safety monitoring system that combines **Face Recognition** and **Personal Protective Equipment (PPE) Detection** using real-time video analysis.  
 Developed as part of the **Venture Base Hackathon 2025** and it focuses on innovative approach to workplace safety and security.
 
