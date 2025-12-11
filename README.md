@@ -1,4 +1,4 @@
-# WolfEye+ (Face Recognition + PPE Detection System)
+# WolfEye+ (Face Recognition + PPE Detection System)🐺
 <img width="1200" height="577" alt="image" src="https://github.com/user-attachments/assets/af054c89-73f2-481e-a988-2e22eec45ccc" />
 
 ---
